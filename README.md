@@ -1,5 +1,38 @@
-# 💫 About Me:
-<br>Hello, I'm Muhammad Bilal!<br><br>Welcome to my GitHub profile! I’m a passionate software developer from Lahore, Pakistan, with a strong focus on Android development and a keen interest in Software Engineering. Currently, I’m working on a variety of exciting projects, including mobile apps and software solutions.<br><br> 🚀 Current Projects:<br>- NoteMaster: An academic app combining voice-to-text, intelligent summarization, and image-to-text features.<br><br>🛠️ Technologies & Tools:<br>- Android Development with Java and Kotlin<br>- Firebase Realtime Database & Firestore<br>- SQLite<br>- GitHub for version control<br><br>🎓 Future Aspirations:<br>I’m looking to pursue a PhD in Software Engineering to deepen my knowledge and contribute to cutting-edge advancements in the field.<br><br>Feel free to explore my repositories, contribute, or reach out if you have any questions or collaboration opportunities!<br><br>Happy coding! 🚀<br>
+<h1 align="center">💫 About Me</h1>
+
+<h2>👋 Hello, I'm Muhammad Bilal!</h2>
+
+<p>Welcome to my GitHub profile! I’m a passionate <strong>software engineer</strong> from <strong>Lahore, Pakistan</strong>, specializing in <strong>Android development</strong> and backend solutions. With a strong foundation in <strong>software architecture</strong> and <strong>database management</strong>, I love turning ideas into fully functional and efficient applications.</p>
+
+<h2>🚀 What I’m Working On</h2>
+
+<ul>
+  <li><strong>📂 Document Management System</strong> – A powerful system for organizing, storing, and retrieving documents efficiently, designed to streamline workflows and enhance productivity.</li>
+  <li><strong>🌍 Air Quality Monitor</strong> – A project focused on <strong>environmental monitoring</strong> using <strong>sensor data</strong>, providing real-time air quality insights.</li>
+</ul>
+
+<h2>🛠️ Tech Stack & Expertise</h2>
+
+<ul>
+  <li><strong>👨‍💻 Mobile Development:</strong> Java, Kotlin (Android)</li>
+  <li><strong>🔥 Firebase Ecosystem:</strong> Realtime Database, Firestore, Authentication, Cloud Storage</li>
+  <li><strong>📂 Database Management:</strong> SQLite, Firebase, MySQL</li>
+  <li><strong>📡 Backend:</strong> Node.js (basic), RESTful APIs</li>
+  <li><strong>🎨 UI/UX:</strong> XML, Jetpack Compose (learning)</li>
+  <li><strong>💡 Tools & Platforms:</strong> GitHub, Git, Android Studio, Figma (for UI/UX prototyping)</li>
+</ul>
+
+<h2>🎯 Future Aspirations</h2>
+
+<p>🔬 I aim to <strong>pursue a PhD in Software Engineering</strong>, focusing on <strong>AI-driven applications</strong>, <strong>human-computer interaction</strong>, and <strong>efficient data structures</strong>. My goal is to contribute to <strong>cutting-edge research</strong> while continuing to develop impactful software solutions.</p>
+
+<p>🏢 Additionally, I’m building <strong>CatCodeLab</strong>, a <strong>software startup</strong> that focuses on <strong>innovative mobile applications</strong> and <strong>tech solutions</strong> for real-world challenges.</p>
+
+<h2>📬 Let’s Connect!</h2>
+
+<p>🚀 Whether you're interested in <strong>collaborations</strong>, <strong>open-source contributions</strong>, or just want to chat about <strong>technology</strong>, feel free to reach out!</p>
+
+<p align="center"><strong>Happy coding! 🚀</strong></p>
 
 
 # 💻 Tech Stack:
